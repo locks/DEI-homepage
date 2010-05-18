@@ -1,0 +1,35 @@
+#navcontainer ul
+{
+	text-align: center;
+	padding: 1px 0px;
+	margin-top: 0;
+	/* cancels gap caused by top padding in Opera 7.54 */
+	margin-left: 0;
+	background-color: #343959;
+	color: #7c7e8c;
+	width: 100%;
+	font-size: 15px;
+	font-family: Arial,Helvetica,sans-serif;
+}
+
+#navcontainer ul li
+{
+	display: inline;
+	padding: 0px 5px;
+}
+
+#navcontainer ul li a
+{
+	text-decoration: none;
+	color: #c1c3d8;
+}
+
+#navcontainer ul li a:hover
+{
+	padding: 5px;
+	background-color: #525a8c;
+	color: white;
+}
+
+/* as minhas adições fantabulásticas... :P */
+
